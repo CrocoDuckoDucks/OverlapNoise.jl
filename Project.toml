@@ -1,0 +1,10 @@
+name = "OverlapNoise"
+uuid = "22d01858-6ec1-5dc8-b541-680ceeb24673"
+authors = ["CrocoDuck <CrocoDuckoDucks@users.noreply.github.com>"]
+version = "0.1.0"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
