@@ -3,6 +3,11 @@ uuid = "22d01858-6ec1-5dc8-b541-680ceeb24673"
 authors = ["CrocoDuck <CrocoDuckoDucks@users.noreply.github.com>"]
 version = "0.1.0"
 
+[deps]
+FFTW = "7a1cc6ca-52ef-59f5-83cd-3a7055c09341"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+WAV = "8149f6b0-98f6-5db9-b78f-408fbbb8ef88"
+
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
